@@ -12,3 +12,8 @@ color:
     - '#547AB1'
     - '#CEAFC0'
 name: Esteen
+navigation:
+  - id: 'https://www.esteemprojects.com'
+    url: 'https://www.esteemprojects.com'
+    name: Esteem main website
+    type: external
